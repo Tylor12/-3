@@ -24,13 +24,6 @@
     self.ablock = ^(){
         NSLog(@"%@",weakSelf.view);
     };
-    
-    
-    
-    
-    
-    
-    
     // Do any additional setup after loading the view.
 }
 - (IBAction)fanhui:(id)sender {
@@ -38,6 +31,7 @@
     }];
 }
 -(void)dealloc{
+    //销毁    
     
 }
 - (void)didReceiveMemoryWarning {
