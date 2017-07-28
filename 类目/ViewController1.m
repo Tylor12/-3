@@ -24,6 +24,13 @@
     self.ablock = ^(){
         NSLog(@"%@",weakSelf.view);
     };
+    
+    
+    
+    
+    
+    
+    
     // Do any additional setup after loading the view.
 }
 - (IBAction)fanhui:(id)sender {
