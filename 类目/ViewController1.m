@@ -32,6 +32,7 @@
     }];
 }
 -(void)dealloc{
+    //销毁    
     
 }
 - (void)didReceiveMemoryWarning {
