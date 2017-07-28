@@ -24,7 +24,7 @@
     self.ablock = ^(){
         NSLog(@"%@",weakSelf.view);
     };
-    //犯我中华者虽远必诛
+    //犯我中华者虽远
     // Do any additional setup after loading the view.
 }
 - (IBAction)fanhui:(id)sender {
